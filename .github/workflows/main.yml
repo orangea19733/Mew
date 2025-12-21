@@ -1,5 +1,5 @@
-name: Node.js CI
-
+: Node.js CI
+name
 on:
   workflow_dispatch:
   
